@@ -9,6 +9,6 @@ def key_for_min_value(name_hash)
       count = value; lowest_key = key
       else nil
   end
-end
   lowest_key
 end 
+end
